@@ -1,2 +1,1 @@
-# references-in-mathematics
-Suggested References in Mathematics
+#### Please visit the wiki for more info https://github.com/muhamed-hassan/references-in-mathematics/wiki
