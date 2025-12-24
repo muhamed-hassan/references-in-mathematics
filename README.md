@@ -1,4 +1,4 @@
-#### Please visit the wiki for more info https://github.com/muhamed-hassan/references-in-mathematics/wiki
+#### Please visit the [wiki](https://github.com/muhamed-hassan/references-in-mathematics/wiki) for more info
 
 ***
 
