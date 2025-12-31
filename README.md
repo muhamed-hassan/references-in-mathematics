@@ -2,10 +2,6 @@
 
 ***
 
-**`Education phase:`** [Secondary School](https://en.wikipedia.org/wiki/Secondary_school)
-
-***
-
 Please visit [`jokes section`](https://github.com/muhamed-hassan/references-in-mathematics/wiki/Jokes-section) for interesting non-sense things 🤣
 
 ***
